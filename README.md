@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benbogd4n
 - 👀 I’m interested in learning to code, design and editing.
-- 🌱 I’m currently learning HTML/CSS/JS
+- 🌱 I’m currently studying Web development - HTML/CSS/JS
 - 📫 Reach me @ ben.bogdan@icloud.com
 
 <!---
